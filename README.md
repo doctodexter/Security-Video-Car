@@ -14,7 +14,9 @@ Totodată, designul robotului este simplu, funcțional și care permite
 automatizarea procesului de producție. Astfel, se poate adăuga o
 carcasă pentru acoperirea componentelor și a firelor.
 Proiectul a fost realizat in echipa de doi elevi:
+
 •Tomescu Lucas: Software (cod), Hardware(Mecanica si electronica)
+
 •Raduly Irina: Software (interfata grafica), Hardware(Mecanica), Design, Prezentare
 Linkurile unde se gasesc secvente ce nu sunt originale:
 
