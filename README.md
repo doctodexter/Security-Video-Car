@@ -17,6 +17,7 @@ Proiectul a fost realizat in echipa de doi elevi:
 •Tomescu Lucas: Software (cod), Hardware(Mecanica si electronica)
 •Raduly Irina: Software (interfata grafica), Hardware(Mecanica), Design, Prezentare
 Linkurile unde se gasesc secvente ce nu sunt originale:
+
 -https://randomnerdtutorials.com/esp32-websocket-server-arduino/ (secvențele funcțiilor websocket)
 -https://learn.adafruit.com/mpu6050-6-dof-accelerometer-and-gyro/arduino (secvențele funcțiilor pentru mpu6050)
 -https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/ (secvențele funcțiilor pentru senzorul dht11)
