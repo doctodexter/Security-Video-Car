@@ -26,3 +26,5 @@ Linkurile unde se gasesc secvente ce nu sunt originale:
 -https://learn.adafruit.com/mpu6050-6-dof-accelerometer-and-gyro/arduino (secvențele funcțiilor pentru mpu6050)
 
 -https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/ (secvențele funcțiilor pentru senzorul dht11)
+
+-https://randomnerdtutorials.com/program-upload-code-esp32-cam/ (programul pentru camera esp-32 CAM)
