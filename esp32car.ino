@@ -29,8 +29,8 @@ Adafruit_MPU6050 mpu;
 #define TX2 17
 DynamicJsonDocument doc(1024);
 Servo servo;
-const char* ssid = "Lucas";
-const char* password = "Ancalucas";
+const char* ssid = "******";
+const char* password = "********";
 bool ledState = 0;
 const int ledPin = 2;
 int echo=35,trig=32,ENA=13,IN1=12,IN2=14,IN3=27,IN4=26,ser = 25,state=5,sc=70,ok=0,dc=150;
