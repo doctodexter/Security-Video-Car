@@ -7,7 +7,7 @@ identifică posibilele probleme dintr-o locuință, trimițănd notificări
 trimițănd notificări într-un mesaj pe WhatsApp în care descrie
 problema identificată. Robotul poate fi controlat de la orice
 distanță, prin taste, iar daca este nevoie, poate fi trecut pe modul
-autonom (line following sau roaming). Robotul transmite date
+autonom (freeroaming). Robotul transmite date
 reale în timp real. Poziția camerei poate fi, de asemenea, controlată
 prin taste.
 Totodată, designul robotului este simplu, funcțional și care permite
