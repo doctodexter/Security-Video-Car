@@ -17,7 +17,7 @@ Proiectul a fost realizat in echipa de doi elevi:
 
 •Tomescu Lucas: Software (cod), Hardware(Mecanica si electronica)
 
-•Raduly Irina: Software (interfata grafica), Hardware(Mecanica), Design, Prezentare
+•Raduly Irina: Prezentare
 
 Linkurile unde se gasesc secvente ce nu sunt originale:
 
